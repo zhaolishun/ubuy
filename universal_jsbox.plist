@@ -16,7 +16,7 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>com.dudu.app.qiaoqiao</key>
+				<key>bundle-identifier</key>
 				<string>*</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
