@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ozp5qdjmq.bkt.clouddn.com/qiaoqiaokan2.1.7.ipa</string>
+					<string>http://other.sundeful.com/ubuy1.0.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>QiaoQiaoKan.app</string>
+				<string>ubuy.app</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>悄悄看</string>
+				<string>优百淘</string>
 			</dict>
 		</dict>
 	</array>
